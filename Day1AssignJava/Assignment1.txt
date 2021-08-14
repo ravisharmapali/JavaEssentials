@@ -1,0 +1,4 @@
+
+compiler is a language translater which convert the whole source code into the machine executable code at a time.
+	interpreter is also a lang translater but it converts the source code into machine code line by line.
+
